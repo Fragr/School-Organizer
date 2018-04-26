@@ -1,2 +1,2 @@
-##School Organizer
+# School Organizer
 [App Name subject to change]
