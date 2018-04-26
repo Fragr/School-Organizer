@@ -1,1 +1,2 @@
-Android Studio Projects
+##School Organizer
+[App Name subject to change]
